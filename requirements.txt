@@ -1,3 +1,4 @@
 plotly
 statsmodels
 pandas
+streamlit-aggrid
